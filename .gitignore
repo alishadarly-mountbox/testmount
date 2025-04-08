@@ -1,0 +1,19 @@
+# Ignore wp-config.php so live DB settings don't get overwritten
+wp-config.php
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp
+*.log
+*.tmp
+
+# Ignore node_modules (if using tools)
+node_modules/
+
+# Optional: ignore uploads (media)
+# wp-content/uploads/
+
+wp-config.php
+
